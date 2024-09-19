@@ -15,7 +15,7 @@ As part of my Machine Learning Internship at CognoRise InfoTech, I worked on mul
 #### Technologies Used:
 * Python, Pandas, Scikit-Learn, Matplotlib
 ### 2. Breast Cancer Classification
-#### Objective: To classify breast cancer cases as malignant or benign based on features extracted from cell nuclei.
+#### Objective: To classify breast cancer tumors as malignant or benign using features extracted from mammograms.
 
 #### Algorithms Used:
 
